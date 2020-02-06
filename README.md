@@ -13,14 +13,6 @@ between users without central movie recommendation providers such as Netflix. Us
 thus calculate recommendation on their smartphones locally. In a nutshell, the Application replicates the Word-of-Mouth phenomonen of recommendation in social
  interactions in digital D2D-fashion interactions. We follow in the footsteps of the PocketLens project.
  
-#The usage data collected by Google (implementing Google Analytics) - as the store provider - are limited to the usage behavior of the elements within
-#the app such as usage time, [fill in what is actually being tracked by Google]. This explicitly does not include personal movie preferences or information
-#on data exchanges between users in provimity.
-
-#This Privacy Notice describes how we process personal app usage data we collect from individuals in relation to their use of our Application and the measures we 
-#take to assist the users of our Application to comply with data protection law that applies to them. In legal terms, we are the data controller, as we
-# determine the means and/or purposes of the processing.
-
 This Privacy Notice only covers data processing carried out by Affinity. The Privacy Notice does not address, and we are not responsible for, the privacy practices
  of any third parties.
 
@@ -36,11 +28,6 @@ We stress that data exchanges do in particular do neither involve nor require an
  activate and deactive sharing such that data sharing can happen also when the User is not actively handling the Application. 
 When using the Application we automatically record certain technical information such as the Internet Protocol address (IP address), the device address and/or device type.
 We do not use Google Analytics, an analytics service provided by Google, Inc. ("Google").
-# The information generated about your use of the Application (including your
-# IP address) will be transmitted to and stored by Google on servers in the United States. On behalf of the Technische Universit&auml;t Berlin, Google will use this
-# information for the purpose of evaluating your use of the Application, compiling reports on Application usage activity and providing other services relating to
-# Application activity. You can refuse the use of Google Analytics within the Application. However, please note that if you do this, you may not be able to use the full functionality of the Application.
-
 For further information concerning the terms and conditions of use and data privacy at Google please visit: https://www.google.com/analytics/terms/us.html or https://www.google.com/policies/.
 
 3. Purposes
